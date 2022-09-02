@@ -1,0 +1,11 @@
+table {
+  float:left;
+  margin:20px;
+}
+table td {
+  background-color: #ccc;
+  border: 2px #aaa solid;
+  margin: 1.5px;
+  padding: 5px 5px;
+  text-align:center;
+}
